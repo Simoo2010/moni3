@@ -4,7 +4,7 @@ int main()
  float a,b,x;
  printf("Enter the value of a: ");
  scanf("%f",&a);
- printf("proba ");
+ printf("test3 ");
  scanf("%f",&b);
  if(a!=0)
  {

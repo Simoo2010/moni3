@@ -2,6 +2,6 @@
 int main()
 {
  int a,b,c,max;
-  printf("proba");
+  printf("sladko");
 return 0
 }
